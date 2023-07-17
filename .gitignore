@@ -2,7 +2,7 @@
 Thumbs.db*
 .DS_Store*
 HELP.md
-dist
+#dist // удаляем для решения задачи с модулем в браузере
 doc
 
 # Logs
