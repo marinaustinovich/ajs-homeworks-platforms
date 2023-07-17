@@ -2,7 +2,7 @@
   "name": "@marinaustinovich/ajs-homeworks-platforms",
   "version": "1.0.0",
   "description": "",
-  "main": "dist/dist/index.js",
+  "main": "dist/index.js",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
